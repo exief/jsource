@@ -77,6 +77,7 @@ set(test_cases
     g111s
     g112
     g112a
+    g112b
     g112i
     g112p
     g112s
@@ -203,6 +204,7 @@ set(test_cases
     g422os
     g422rk
     g422sort
+    g422sorta
     g422sort1
     g422tao
     # g430
